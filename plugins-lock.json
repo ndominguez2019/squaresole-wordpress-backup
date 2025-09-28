@@ -1,0 +1,218 @@
+﻿[
+    {
+        "Slug":  "acf_pro",
+        "File":  "",
+        "Name":  "acf_pro",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "aryo-activity-log",
+        "File":  "aryo-activity-log.php",
+        "Name":  "Activity Log",
+        "Version":  "2.11.2",
+        "Author":  "Activity Log Team",
+        "URI":  "https://activitylog.io/?utm_source=wp-plugins\u0026utm_campaign=plugin-uri\u0026utm_medium=wp-dash",
+        "Notes":  ""
+    },
+    {
+        "Slug":  "commercegurus-commercekit",
+        "File":  "",
+        "Name":  "commercegurus-commercekit",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "contact-form-7",
+        "File":  "",
+        "Name":  "contact-form-7",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "google-listings-and-ads",
+        "File":  "",
+        "Name":  "google-listings-and-ads",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "google-site-kit",
+        "File":  "",
+        "Name":  "google-site-kit",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "image-optimization",
+        "File":  "",
+        "Name":  "image-optimization",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "infinite-scroll",
+        "File":  "infinity.php",
+        "Name":  "The Neverending Home Page.",
+        "Version":  "1.1",
+        "Author":  "Automattic",
+        "URI":  "https://automattic.com/",
+        "Notes":  ""
+    },
+    {
+        "Slug":  "jetpack",
+        "File":  "",
+        "Name":  "jetpack",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "kirki",
+        "File":  "",
+        "Name":  "kirki",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "klaviyo",
+        "File":  "",
+        "Name":  "klaviyo",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "mailchimp-for-wp",
+        "File":  "mailchimp-for-wp.php",
+        "Name":  "MC4WP: Mailchimp for WordPress",
+        "Version":  "4.10.7",
+        "Author":  "ibericode",
+        "URI":  "https://www.mc4wp.com/#utm_source=wp-plugin\u0026utm_medium=mailchimp-for-wp\u0026utm_campaign=plugins-page",
+        "Notes":  ""
+    },
+    {
+        "Slug":  "mokko_plugin",
+        "File":  "",
+        "Name":  "mokko_plugin",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "one-click-demo-import",
+        "File":  "one-click-demo-import.php",
+        "Name":  "One Click Demo Import",
+        "Version":  "3.4.0",
+        "Author":  "OCDI",
+        "URI":  "https://wordpress.org/plugins/one-click-demo-import/",
+        "Notes":  ""
+    },
+    {
+        "Slug":  "pinterest-for-woocommerce",
+        "File":  "",
+        "Name":  "pinterest-for-woocommerce",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "printful-shipping-for-woocommerce",
+        "File":  "printful-shipping.php",
+        "Name":  "Printful Integration for WooCommerce",
+        "Version":  "2.2.11",
+        "Author":  "Printful",
+        "URI":  "https://wordpress.org/plugins/printful-shipping-for-woocommerce/",
+        "Notes":  ""
+    },
+    {
+        "Slug":  "tiktok-for-business",
+        "File":  "",
+        "Name":  "tiktok-for-business",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woocommerce",
+        "File":  "",
+        "Name":  "woocommerce",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woocommerce-payments",
+        "File":  "",
+        "Name":  "woocommerce-payments",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woocommerce-paypal-payments",
+        "File":  "",
+        "Name":  "woocommerce-paypal-payments",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woocommerce-services",
+        "File":  "",
+        "Name":  "woocommerce-services",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woocommerce-shipping",
+        "File":  "",
+        "Name":  "woocommerce-shipping",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "woo-update-manager",
+        "File":  "",
+        "Name":  "woo-update-manager",
+        "Version":  "",
+        "Author":  "",
+        "URI":  "",
+        "Notes":  "Header not found (nonstandard root)."
+    },
+    {
+        "Slug":  "wordfence",
+        "File":  "wordfence.php",
+        "Name":  "Wordfence Security",
+        "Version":  "8.1.0",
+        "Author":  "Wordfence",
+        "URI":  "https://www.wordfence.com/",
+        "Notes":  ""
+    }
+]
